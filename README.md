@@ -17,7 +17,6 @@ Or you can email me at charlesjramey@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesjramey"/>
 
 ### What I'm using:
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
