@@ -5,7 +5,7 @@
 - My name is Charles Ramey, I'm originally from Colorado and I am currently living in Danbury, Connecticut :earth_americas:
 - I am a Data Scientist with a passion for extracting useful and meaningful insights from data :bar_chart:
 - My past experience includes 3 years working with clients and regulators to protect public health and the environment as part of a team of civil and environmental engineers :droplet:
-- I love to learn, and I am always practicing new skills and learning new tools to add to my personal and professional toolbox!
+- I love to learn, and I am always practicing new skills and learning new tools to add to my personal and professional toolbox :pencil2:
 
 ### Let's connect!
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charlesjramey/)
