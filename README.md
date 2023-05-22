@@ -1,4 +1,4 @@
-# Welcome!
+<img src="assets/welcome-gif.gif" alt="welcome-gif">
 ---
 
 ### A bit about me...
