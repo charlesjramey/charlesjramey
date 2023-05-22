@@ -11,7 +11,7 @@
 
 Or you can email me at charlesjramey@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=charlesjramey&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=charlesjramey&show_icons=true">
 
 ### What I'm using:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
