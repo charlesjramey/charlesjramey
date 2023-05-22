@@ -18,6 +18,4 @@ Or you can email me at charlesjramey@gmail.com
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesjramey"/>
-
 
